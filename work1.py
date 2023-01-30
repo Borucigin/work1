@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 30 10:26:25 2023
 
-@author: yardi
+@author: borucigin
 """
 
 import requests
