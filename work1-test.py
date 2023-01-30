@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 30 10:45:40 2023
 
-@author: yardi
+@author: borucigin
 """
 
 import pytest
